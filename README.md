@@ -1,4 +1,7 @@
-### Hi there 👋
+### wann hab ich verlernt zu lieben?
+![Alt Text](https://media.giphy.com/media/U7sKVqbr7SxPX5gsd7/giphy.gif)
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif?raw=true" width="40" height="40" /> ich will heute nacht nur in frieden sterben
 
 <!--
 **rlyhurt/rlyhurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
